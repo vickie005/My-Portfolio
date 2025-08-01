@@ -1,0 +1,40 @@
+.sticky-footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+  box-shadow: 0 -2px rgba(0, 255, 255, 0.2);
+}
+
+.footer-icons {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  display: flex;
+  gap: 1rem;
+  z-index: 100;
+ box-shadow: 0 0 10px #00ffcc;
+ border-radius: 50%;
+ font-size: 1.2rem;
+ color: #00ffcc;
+ padding: 10px 12px;
+ text-decoration: none;
+ 
+}
+.footer-icons:hover {
+  background: #00ffcc;
+  color: #111;
+  transition: scale(1.2);
+}
+.footer-icons a img {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+}
+.footer-icons a:hover img {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 5px #00ffff);
+}
