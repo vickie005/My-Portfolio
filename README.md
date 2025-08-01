@@ -39,10 +39,14 @@ Welcome to my personal portfolio website, a creatively styled and fully animated
 
 1. *Clone the Repository*
 
-git clone https://github.com/Vickie005/portfolio.git
+git clone https://github.com/Vickie005/My-Portfolio
 cd portfolio
 Open index.html in your browser
 That’s it! No frameworks, servers, or bundlers needed.
+
+## 🔗 Live Portfolio
+
+👉 [View My Portfolio](https://vickie005.github.io/My-Portfolio/)
 
 ## 👩‍💻 Tech Used
 
