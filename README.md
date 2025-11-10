@@ -47,6 +47,7 @@ That’s it! No frameworks, servers, or bundlers needed.
 ## 🔗 Live Portfolio
 
 👉 [View My Portfolio](https://vickie005.github.io/My-Portfolio/)
+   [on vercel](https://my-portfolio-zeta-kohl-14.vercel.app/)
 
 ## 👩‍💻 Tech Used
 
