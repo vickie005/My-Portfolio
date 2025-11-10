@@ -56,7 +56,7 @@ That’s it! No frameworks, servers, or bundlers needed.
 Pure creativity and fun
 
 📫 Contact
-Email: victorymwendwa29@gmail.com
+Email: mwendwavictory29@gmail.com
 
 GitHub: @Vickie005
 
